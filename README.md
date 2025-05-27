@@ -49,11 +49,11 @@
 ## 📂 File Structure
 
 Huffman_Compresso/
-# HuffmanNode.java # Node structure for Huffman Tree
-# HuffmanTree.java # Tree builder and traversal logic
-# HuffmanCompressor.java # Compression logic
-# HuffmanDecompressor.java # Decompression logic
-# MainUI.java # GUI logic using Java Swing
+1.HuffmanNode.java # Node structure for Huffman Tree
+2.HuffmanTree.java # Tree builder and traversal logic
+3.HuffmanCompressor.java # Compression logic
+4.HuffmanDecompressor.java # Decompression logic
+5.MainUI.java # GUI logic using Java Swing
 # input.txt / output.huff # Sample input and generated output files
 
 
