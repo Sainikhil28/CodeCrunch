@@ -41,6 +41,8 @@
 ## 🖼️ GUI Snapshot
 
 > The application provides a minimalistic GUI with input/output file selectors and buttons for compression and decompression — making the process beginner-friendly and efficient.
+> <img width="959" alt="image" src="https://github.com/user-attachments/assets/0907086e-fdb2-484c-b210-fec3b5391624" />
+
 
 ---
 
