@@ -3,6 +3,8 @@
 **CodeCrunch** is a Java-based desktop application that allows users to compress and decompress files using the Huffman Coding algorithm. Designed with a user-friendly GUI built using `Swing`, this tool provides an intuitive interface for file selection, compression, and decompression operations — making data handling more efficient and secure.
 
 ---
+![Code Crunch](https://github.com/user-attachments/assets/7958791c-3f95-4241-8068-b607d48e3de2)
+
 
 ## 🚀 Features
 
